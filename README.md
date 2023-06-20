@@ -1,8 +1,5 @@
 ### To launch mybinder jupyter nbviewer click link below:
-
-https://mybinder.org/v2/gh/ajeetmandal/my-first-binder.git/HEAD
 https://mybinder.org/v2/gh/ajeetmandal/mybinder_062023/HEAD
-
 
 ### To launch Rstudio click link below:
 https://mybinder.org/v2/gh/ajeetmandal/mybinder_062023/main?urlpath=rstudio
