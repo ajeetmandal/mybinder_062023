@@ -18,6 +18,7 @@ sce_small <- load("SCE_DLPFC-n3_tran-etal.rda")
 sce_small <- sce.dlpfc.tran
 
 
+
 ###########################################
 # read colors
 cell_colors <- readRDS("cell_colors_dlpfc.rds")
