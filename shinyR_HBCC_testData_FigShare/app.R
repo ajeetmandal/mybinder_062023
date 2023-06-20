@@ -8,7 +8,7 @@ dat <- ("https://figshare.com/ndownloader/files/39149009/SCE_DLPFC-n3_tran-etal.
 download.file(dat, destfile = "SCE_DLPFC-n3_tran-etal.rda")
 
 sce_small <- load("SCE_DLPFC-n3_tran-etal.rda")
-sce_small <- sce.dlpfc.tran
+#sce_small <- sce.dlpfc.tran
 
 
 ###########################################
