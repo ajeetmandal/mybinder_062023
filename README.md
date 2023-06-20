@@ -6,3 +6,4 @@ https://mybinder.org/v2/gh/ajeetmandal/mybinder_062023/main?urlpath=rstudio
 
 ### To launch R Shiny app:
 https://mybinder.org/v2/gh/ajeetmandal/mybinder_062023/main?urlpath=shiny/shinyR_HBCC_testData_FigShare/
+https://mybinder.org/v2/gh/ajeetmandal/mybinder_062023.git/main?urlpath=shiny/shinyR_HBCC_testData_FigShare/
