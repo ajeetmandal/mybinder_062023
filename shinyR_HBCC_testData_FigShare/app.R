@@ -9,8 +9,8 @@ library("iSEE")
 options(timeout=3600)
 ###########################################
 # Fetch the data from FigShare
-#dat <- ("https://figshare.com/ndownloader/files/39149009/SCE_DLPFC-n3_tran-etal.rda")
-dat <- ("https://figshare.com/ndownloader/files/39149009/")
+dat <- ("https://figshare.com/ndownloader/files/39149009/SCE_DLPFC-n3_tran-etal.rda")
+#dat <- ("https://figshare.com/ndownloader/files/39149009/")
 download.file(dat, destfile = "SCE_DLPFC-n3_tran-etal.rda")
 
 sce_small <- load("SCE_DLPFC-n3_tran-etal.rda")
