@@ -5,7 +5,7 @@ BiocManager::install("iSEE")
 #BiocManager::install("SingleCellExperiment") # Dont need this as "iSEE" has this
 #BiocManager::install("scMerge")
 
-# install.packages("shiny")  # Dont need this as "iSEE" has this
+install.packages("shiny")  # Dont need this as "iSEE" has this
 
 
 # install.packages("tidyverse")
