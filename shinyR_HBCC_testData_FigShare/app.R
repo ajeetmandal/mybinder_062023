@@ -1,7 +1,7 @@
 ###########################################
 library("iSEE")
 #library("SingleCellExperiment") # dont need them as "iSEE" have these all
-#library("shiny") # dont need them as "iSEE" have these all
+library("shiny") # dont need them as "iSEE" have these all
 ###########################################
 #To retrieve an option
 #getOption('timeout')
